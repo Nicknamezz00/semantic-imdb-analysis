@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pickle
+**/data
+!testData.tsv
+.DS_Store

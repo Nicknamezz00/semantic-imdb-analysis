@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.idea
+.vscode
+*.pickle
+*.tsv
+**/zipped
+**/jupyter
+.DS_Store
+*.bin
+*.model
+venv/
+*.model*
+!*.csv
+*.png
